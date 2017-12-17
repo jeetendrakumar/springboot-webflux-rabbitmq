@@ -6,6 +6,7 @@
 * Reactive web flux 
 * Reactive mongo repository 
 * Rabbit mq
+* Embedded Mongo db
 
 ### Docker command to create Rabbit MQ queue
 
